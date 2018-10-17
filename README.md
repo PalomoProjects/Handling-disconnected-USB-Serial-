@@ -7,4 +7,6 @@ Each project is different but is very important to know the status about the har
 
 Is very important mentioned that the structure in Linux is relevant in this case, because everything in Linux is a path (file) so this skills give you the ability for manage and know the status of them.
 
+In this example the electronic board (like Arduino maybe) response to a cmd from the python application, the python application is for bring the gateway for the electronic board and get the data from web service.
 
+If you want to know more please email me and give you a feedback as soon as possible.
